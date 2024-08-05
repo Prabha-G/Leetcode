@@ -5,4 +5,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Prabha-G/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/Prabha-G/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Prabha-G/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
