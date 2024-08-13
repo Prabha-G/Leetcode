@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prabha-G/Leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Prabha-G/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prabha-G/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Prabha-G/Leetcode/tree/master/0078-subsets) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prabha-G/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Prabha-G/Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Prabha-G/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prabha-G/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Prabha-G/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
