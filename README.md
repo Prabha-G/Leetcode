@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Prabha-G/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Prabha-G/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Prabha-G/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Prabha-G/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prabha-G/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Prabha-G/Leetcode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Prabha-G/Leetcode/tree/master/0189-rotate-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prabha-G/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Prabha-G/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Prabha-G/Leetcode/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prabha-G/Leetcode/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prabha-G/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
