@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prabha-G/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Prabha-G/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Prabha-G/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prabha-G/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Prabha-G/Leetcode/tree/master/0051-n-queens) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prabha-G/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prabha-G/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Prabha-G/Leetcode/tree/master/0037-sudoku-solver) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prabha-G/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prabha-G/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Prabha-G/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Prabha-G/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Prabha-G/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prabha-G/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Prabha-G/Leetcode/tree/master/0051-n-queens) |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Prabha-G/Leetcode/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Prabha-G/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
