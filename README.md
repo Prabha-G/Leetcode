@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prabha-G/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prabha-G/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Prabha-G/Leetcode/tree/master/0022-generate-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prabha-G/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prabha-G/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Prabha-G/Leetcode/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -88,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prabha-G/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Prabha-G/Leetcode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Prabha-G/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
