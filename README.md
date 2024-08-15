@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prabha-G/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Prabha-G/Leetcode/tree/master/0048-rotate-image) |
+| [0149-max-points-on-a-line](https://github.com/Prabha-G/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Prabha-G/Leetcode/tree/master/0189-rotate-array) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prabha-G/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prabha-G/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Prabha-G/Leetcode/tree/master/0078-subsets) |
+| [0149-max-points-on-a-line](https://github.com/Prabha-G/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Prabha-G/Leetcode/tree/master/0189-rotate-array) |
 | [1835-decode-xored-permutation](https://github.com/Prabha-G/Leetcode/tree/master/1835-decode-xored-permutation) |
 ## Hash Table
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prabha-G/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prabha-G/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Prabha-G/Leetcode/tree/master/0037-sudoku-solver) |
+| [0149-max-points-on-a-line](https://github.com/Prabha-G/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0778-reorganize-string](https://github.com/Prabha-G/Leetcode/tree/master/0778-reorganize-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prabha-G/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Prabha-G/Leetcode/tree/master/0778-reorganize-string) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Prabha-G/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
