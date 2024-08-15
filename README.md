@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prabha-G/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Prabha-G/Leetcode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Prabha-G/Leetcode/tree/master/0189-rotate-array) |
+| [1835-decode-xored-permutation](https://github.com/Prabha-G/Leetcode/tree/master/1835-decode-xored-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Prabha-G/Leetcode/tree/master/0078-subsets) |
+| [1835-decode-xored-permutation](https://github.com/Prabha-G/Leetcode/tree/master/1835-decode-xored-permutation) |
 ## Matrix
 |  |
 | ------- |
