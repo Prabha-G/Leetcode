@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prabha-G/Leetcode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Prabha-G/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Prabha-G/Leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Prabha-G/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0778-reorganize-string](https://github.com/Prabha-G/Leetcode/tree/master/0778-reorganize-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prabha-G/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
@@ -160,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Prabha-G/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Prabha-G/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Prabha-G/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Prabha-G/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
