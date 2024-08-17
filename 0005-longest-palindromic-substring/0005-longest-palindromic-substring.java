@@ -3,8 +3,8 @@ class Solution {
     if (s == null || s.length() < 1) return "";
     int start = 0, end = 0;
     for (int i = 0; i < s.length(); i++) {
-        int len1 = expandAroundCenter(s, i, i);
-        int len2 = expandAroundCenter(s, i, i + 1); 
+        int len1 = solve(s, i, i);
+        int len2 =solve(s, i, i + 1);
         int len = Math.max(len1, len2);
         if (len > end - start) {
             start = i - (len - 1) / 2;
@@ -14,7 +14,7 @@ class Solution {
     return s.substring(start, end + 1);
 }
 
-private int expandAroundCenter(String s, int left, int right) {
+private int solve(String s, int left, int right) {
     while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
         left--;
         right++;
