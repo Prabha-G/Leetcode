@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prabha-G/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Prabha-G/Leetcode/tree/master/0078-subsets) |
 | [0149-max-points-on-a-line](https://github.com/Prabha-G/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0179-largest-number](https://github.com/Prabha-G/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Prabha-G/Leetcode/tree/master/0189-rotate-array) |
 | [1835-decode-xored-permutation](https://github.com/Prabha-G/Leetcode/tree/master/1835-decode-xored-permutation) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Prabha-G/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prabha-G/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Prabha-G/Leetcode/tree/master/0022-generate-parentheses) |
+| [0179-largest-number](https://github.com/Prabha-G/Leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Prabha-G/Leetcode/tree/master/0778-reorganize-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prabha-G/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
@@ -137,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Prabha-G/Leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Prabha-G/Leetcode/tree/master/0778-reorganize-string) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Prabha-G/Leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Prabha-G/Leetcode/tree/master/0778-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
